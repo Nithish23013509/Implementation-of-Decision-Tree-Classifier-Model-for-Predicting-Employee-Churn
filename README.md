@@ -57,19 +57,32 @@ dt.predict([[0.5,0.8,9,260,6,0,1,2]])
 ```
 ## Output:
 Data.head():
+
 ![318630456-311a67fb-1265-447c-938d-0c0272211d09](https://github.com/Nithish23013509/Implementation-of-Decision-Tree-Classifier-Model-for-Predicting-Employee-Churn/assets/149038138/fcd4e107-c4a0-4106-848d-cfb8d3dd746b)
+
 Data.info():
 ![318630465-0d68fe8f-ca3a-497c-b849-cc795adc9da7](https://github.com/Nithish23013509/Implementation-of-Decision-Tree-Classifier-Model-for-Predicting-Employee-Churn/assets/149038138/b7307bd2-dee7-4272-aed8-aa764bb3f9ce)
+
 isnull() and sum():
+
 ![318630486-a6d85076-d39f-4a37-9cc7-4faa482709b6](https://github.com/Nithish23013509/Implementation-of-Decision-Tree-Classifier-Model-for-Predicting-Employee-Churn/assets/149038138/e3dc2a21-6eb2-4901-a62d-2a2a71140f59)
+
 Data Value Counts():
+
 ![318630500-4434df1a-11f9-4442-ade6-b6b8c287d53c](https://github.com/Nithish23013509/Implementation-of-Decision-Tree-Classifier-Model-for-Predicting-Employee-Churn/assets/149038138/82ae02a0-6c2b-46a3-ba2c-2dd05f77c67c)
+
 Data.head() for salary:
+
 ![318630538-f6ec96b4-455c-4421-b7df-2b763100718e](https://github.com/Nithish23013509/Implementation-of-Decision-Tree-Classifier-Model-for-Predicting-Employee-Churn/assets/149038138/6cbefc79-0694-4d6f-9bf0-05422047963b)
+
 x.head():
+
 ![318630552-af19bc4f-4230-42f7-9607-63bb491ecb2f](https://github.com/Nithish23013509/Implementation-of-Decision-Tree-Classifier-Model-for-Predicting-Employee-Churn/assets/149038138/83641623-1804-4256-b3b0-c4a0fd047432)
+
 Accuracy Value:
+
 ![318630596-27177cea-238a-425c-9bf4-2a71622ebe82](https://github.com/Nithish23013509/Implementation-of-Decision-Tree-Classifier-Model-for-Predicting-Employee-Churn/assets/149038138/0c349b2a-795f-4bbe-8290-dcad0dfae4bc)
+
 Data prediction:
 
 ![318630618-8d2cd76b-d23e-4894-b001-1061c09409fc](https://github.com/Nithish23013509/Implementation-of-Decision-Tree-Classifier-Model-for-Predicting-Employee-Churn/assets/149038138/6298ed90-cef1-4ced-b379-6d7797f88cac)
