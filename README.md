@@ -61,6 +61,7 @@ Data.head():
 ![318630456-311a67fb-1265-447c-938d-0c0272211d09](https://github.com/Nithish23013509/Implementation-of-Decision-Tree-Classifier-Model-for-Predicting-Employee-Churn/assets/149038138/fcd4e107-c4a0-4106-848d-cfb8d3dd746b)
 
 Data.info():
+
 ![318630465-0d68fe8f-ca3a-497c-b849-cc795adc9da7](https://github.com/Nithish23013509/Implementation-of-Decision-Tree-Classifier-Model-for-Predicting-Employee-Churn/assets/149038138/b7307bd2-dee7-4272-aed8-aa764bb3f9ce)
 
 isnull() and sum():
